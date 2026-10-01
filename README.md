@@ -1,6 +1,6 @@
 # Windows Dynamic File Organizer
 
-![Dynamic File Organizer](assets/dynamic-file-organizer.png)
+![Dynamic File Organizer](assets/dynamic-file-organizer-horizontal.png)
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![Script](https://img.shields.io/badge/Script-Batch%20%2Ebat-111111?style=for-the-badge&logo=gnubash&logoColor=white)](#)
